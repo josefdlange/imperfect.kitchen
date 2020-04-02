@@ -3,7 +3,7 @@ disqus:
   comments: false
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+google-ID: 'UA-162611798-1'
 
 menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
