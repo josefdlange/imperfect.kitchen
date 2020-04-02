@@ -25,8 +25,18 @@
   line-height: 56px;
   margin-bottom: 0;
   margin-top: 0;
-  padding-left: 10px;
+  padding-left: 20px;
   float: left;
+
+  a {
+    img {
+      display: inline-block;
+      height: 22px;
+      width: 22px;
+      position: relative;
+      top: 2px;
+    }
+  }
 }
 .menu-list {
   line-height: $header-thickness;
@@ -54,6 +64,7 @@
   }
   .site-title {
     padding-right: 0.25rem;
+    padding-left: 10px;
   }
   .dropbtn {
       background-color: white;
