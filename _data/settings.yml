@@ -22,7 +22,7 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Share this!'
+sharing_button_prompt: 'Share this recipe'
 
 related_posts: 'You may also enjoy...'
 

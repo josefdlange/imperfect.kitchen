@@ -5,7 +5,12 @@
   background-color: white;
   box-shadow: 0 5px 6px -6px #bbb;
   z-index: 100;
+
+  @media print {
+    position: unset;
+  }
 }
+
 @media (max-width: $container-width) {
   .site-header {
       min-height: 56px;
@@ -38,9 +43,32 @@
     }
   }
 }
+
+.print-url {
+  display: none;
+  position: relative;
+  top: 16px;
+  float: right;
+  margin-right: 16px;
+
+  @media print {
+    display: inline;
+  }
+}
+
+.dropdown {
+  @media print {
+    display :none;
+  }
+}
+
 .menu-list {
   line-height: $header-thickness;
   float: right;
+
+  @media print {
+    display: none;
+  }
 }
 .menu-link {
   padding: 5px 10px;

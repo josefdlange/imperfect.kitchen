@@ -5,6 +5,7 @@
       {{ site.title }}
     </a>
   </h3>
+  <span class="print-url">Visit: {{ site.github.url }}{{ page.url }}</span>
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>

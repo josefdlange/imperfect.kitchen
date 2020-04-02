@@ -5,6 +5,10 @@
   min-height: 56px;
   line-height: 45px;
   width: $container-width;
+
+  @media print {
+    display: none;
+  }
 }
 .footer a {
   color: $brand-color;
