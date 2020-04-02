@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Syrup
 categories: recipes
-tags: [chocolate]
+tags: [chocolate, drink]
 image: chocolate-syrup.jpg
 ---
 
