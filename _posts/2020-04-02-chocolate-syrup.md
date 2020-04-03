@@ -14,8 +14,8 @@ equipment:
     - Squeeze bottle or jar
 ingredients:
     water: 1.5 cups
-    white sugar: 1.5 cups
-    cocoa powder (normal, not dutch process): 1 cup
+    cocoa powder (normal, not dutch process): 1.5 cups
+    white sugar: 1 cup
     salt: a dash
     vanilla extract: 1 tsp
 directions:
