@@ -21,10 +21,10 @@ layout: post
             <h4 class="content">{{ page.difficulty }}</h4>
         </div>
     {% endif %}
-    {% if page.output %}
+    {% if page.yield %}
         <div class="meta">
-            <h3><i class="fa fa-cubes"></i> Output</h3>
-            <h4 class="content">{{ page.output }}</h4>
+            <h3><i class="fa fa-cubes"></i> Yield</h3>
+            <h4 class="content">{{ page.yield }}</h4>
         </div>
     {% endif %}
     <div class="meta print-recipe" onclick="window.print()">

@@ -7,6 +7,7 @@ image: chocolate-syrup.jpg
 total_time: 15 minutes
 active_time: 15 minutes
 inactive_time: 15 minutes
+yield: ~ 1 pint
 difficulty: Easy
 equipment:
     - Saucepan
