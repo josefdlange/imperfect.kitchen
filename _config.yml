@@ -24,3 +24,24 @@ excerpt_separator: <!--more-->
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+# Jekyll-Compose
+jekyll_compose:
+  auto_open: true
+  default_front_matter:
+    posts:
+      layout: recipe
+      categories: recipes
+      tags: []
+      image:
+      total_time: 
+      active_time:
+      difficulty: Easy
+      equipment:
+        - First item
+      ingredients:
+        item: quantity
+      directions:
+        - First step
+      notes:
+        - First note
