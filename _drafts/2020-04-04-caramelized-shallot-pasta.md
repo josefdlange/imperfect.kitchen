@@ -21,7 +21,7 @@ ingredients:
     red pepper flakes: 1 tsp
     anchovy paste: 1 tbsp
     tomato paste: 3/4 cup
-    buccacini: 10 oz
+    bucatini: 10 oz
     parsley: 1 cup chopped
 directions:
     - Heat **dutch oven** over **medium-low** heat.
