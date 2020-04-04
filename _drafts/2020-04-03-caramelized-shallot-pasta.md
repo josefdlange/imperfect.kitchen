@@ -36,4 +36,4 @@ directions:
 notes:
     - Adapted from [Alison Roman](https://twitter.com/alisoneroman){:target="_blank"} at [NYT Cooking](https://cooking.nytimes.com/recipes/1020830-caramelized-shallot-pasta){:target="_blank"}
 ---
-I knew as soon as I saw this recipe, I simply had to make it. The complexity of caramelized shallots can really knock any dish out of the park.
+I immediately put this recipe at the top of my list. Rich, caramelized shallots coupled with funky tomato paste and anchovies make for a loud dish worthy of any menu, at home or in the fanciest of restaurants.
