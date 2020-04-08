@@ -17,7 +17,7 @@ ingredients:
     'rye flour': 205g
     'eggs': 5
     'white sugar': 1 cup, divided
-    'bittersweet chocolate (chips, chunks, etc)': 425g
+    'dark chocolate (chips/chunks/chopped)': 425g
     'butter': 3/4 cup
     'vanilla': 1/2 tsp
     'brown sugar': 1 cup
