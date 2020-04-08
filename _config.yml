@@ -36,6 +36,24 @@ jekyll_compose:
       image:
       total_time: 
       active_time:
+      yield:
+      difficulty: Easy
+      equipment:
+        - First item
+      ingredients:
+        item: quantity
+      directions:
+        - First step
+      notes:
+        - First note
+    drafts:
+      layout: recipe
+      categories: recipes
+      tags: []
+      image:
+      total_time: 
+      active_time:
+      yield:
       difficulty: Easy
       equipment:
         - First item
