@@ -1,5 +1,6 @@
 ---
 layout: recipe
+comments: true
 title: The Simplest Tomato Sauce You'll Ever Make
 categories: recipes
 tags:

@@ -1,5 +1,6 @@
 ---
 layout: recipe
+comments: true
 title: Sourdough Rye Brownies
 categories: recipes
 tags: [sourdough, chocolate, dessert]

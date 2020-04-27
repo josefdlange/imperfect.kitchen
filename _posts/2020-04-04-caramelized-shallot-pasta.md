@@ -1,5 +1,6 @@
 ---
 layout: recipe
+comments: true
 title: Caramelized Shallot Pasta
 date: 2020-04-04 08:15 -0700
 categories: recipes

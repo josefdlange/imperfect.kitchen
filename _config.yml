@@ -31,6 +31,7 @@ jekyll_compose:
   default_front_matter:
     posts:
       layout: recipe
+      comments: true
       categories: recipes
       tags: []
       image:
@@ -48,6 +49,7 @@ jekyll_compose:
         - First note
     drafts:
       layout: recipe
+      comments: true
       categories: recipes
       tags: []
       image:

@@ -1,5 +1,6 @@
 ---
 layout: recipe
+comments: true
 title: Chocolate Syrup
 categories: recipes
 tags: [chocolate, drink]
