@@ -8,7 +8,7 @@ layout: post
 <div class="meta-container">
     {% if page.total_time %}
         <div class="meta">
-            <h3><i class="fa fa-clock-o"></i> Time</h3>
+            <h3><i class="fa-regular fa-clock-o"></i> Time</h3>
             <div class="content">
                 {{ page.total_time }} total<br>
                 <em>{{ page.active_time }} active</em>
@@ -17,18 +17,18 @@ layout: post
     {% endif %}
     {% if page.difficulty %}
         <div class="meta">
-            <h3><i class="fa fa-cogs"></i> Difficulty</h3>
+            <h3><i class="fa-regular fa-gears"></i> Difficulty</h3>
             <h4 class="content">{{ page.difficulty }}</h4>
         </div>
     {% endif %}
     {% if page.yield %}
         <div class="meta">
-            <h3><i class="fa fa-cubes"></i> Yield</h3>
+            <h3><i class="fa-regular fa-cubes"></i> Yield</h3>
             <h4 class="content">{{ page.yield }}</h4>
         </div>
     {% endif %}
     <div class="meta print-recipe" onclick="window.print()">
-        <h3><i class="fa fa-print"></i> Print</h3>
+        <h3><i class="fa-regular fa-print"></i> Print</h3>
     </div>
 </div>
 
