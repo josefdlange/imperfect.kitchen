@@ -11,8 +11,8 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'instagram', link: 'https://instagram.com/_imperfect_kitchen', platform: 'Instagram', rel: 'self'}
-- {icon: 'mastodon', link: 'https://file-explorers.club/@jdl', platform: 'Mastodon', rel: 'self'}
+- {icon: 'instagram', link: 'https://instagram.com/_imperfect_kitchen', platform: 'Instagram', rel: 'me'}
+- {icon: 'mastodon', link: 'https://file-explorers.club/@jdl', platform: 'Mastodon', rel: 'me'}
 
 # Customize site text
 pagination:
